@@ -1,0 +1,22 @@
+h2 {
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+	font-family: "Comic Sans MS";
+}
+
+#anotherh1 {
+	color: blue;
+}
+
+#anotherh1:hover {
+	color: red;
+}
+
+#purple {
+	background-color: purple;
+	height: 200px;
+	width: 200px;
+}
+
+/*This is a comment*/
